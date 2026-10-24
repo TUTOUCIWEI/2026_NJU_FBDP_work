@@ -28,8 +28,6 @@ Reducer 汇总同一个键的来源，输出：
 
 并集数量 = BOTH + A_ONLY + B_ONLY。
 
-Job 1 成功后才启动 Job 2。
-
 ### 输出结果
 
 output_task2/part-r-00000 的字段依次为：
