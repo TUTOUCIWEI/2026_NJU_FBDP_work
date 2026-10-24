@@ -44,4 +44,4 @@ output_task2/part-r-00000 的字段依次为：
 
 ### YARN 运行截图
 
-![两个 Job 运行成功](作业05/Project_5/yarn-success.png)
+![两个 Job 运行成功](作业05/yarn-success.png)
